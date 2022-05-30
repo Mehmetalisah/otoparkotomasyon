@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.Frmaraçotoparkkaydı.resources
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.frmaraçotoparkyerleri.resources
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.frmaraçotoparkçıkışı.resources
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\otoparkotomasyonprogramı\otoparkotomasyonprogramı\obj\Debug\net6.0-windows\otoparkotomasyonprogramı.csproj.CoreCompileInputs.cache
